@@ -4,7 +4,7 @@
 
 ## 1. Introdução
 
-O app **Trevo Loteria** ("Aplicativo") é um serviço informacional gratuito para análise de loterias brasileiras (Mega-Sena, Lotofácil, Quina, etc.). O aplicativo é monetizado através de anúncios fornecidos pelo Google AdMob.
+O app **VOVO DA SORTE** ("Aplicativo") é um serviço informacional gratuito para análise de loterias brasileiras (Mega-Sena, Lotofácil, Quina, etc.). O aplicativo é monetizado através de anúncios fornecidos pelo Google AdMob.
 
 ## 2. Informações que Coletamos
 
