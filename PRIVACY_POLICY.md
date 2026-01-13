@@ -81,7 +81,7 @@ O aplicativo exibe os seguintes formatos de anúncios através do Google AdMob:
 
 - **Dados locais**: Permanecem no dispositivo até que você limpe o cache ou desinstale o app
 - **Dados do AdMob**: Retidos pelo Google conforme [políticas do AdMob](https://support.google.com/admob/answer/6128543)
-- **Você pode limpar**: Configurações do Android > Apps > Trevo Inteligente > Limpar dados
+- **Você pode limpar**: Configurações do Android > Apps > VOVO DA SORTE > Limpar dados
 
 ## 8. Direitos do Usuário (LGPD/GDPR)
 
