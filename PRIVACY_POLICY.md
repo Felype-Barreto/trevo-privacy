@@ -1,4 +1,4 @@
-# Política de Privacidade - Trevo Inteligente
+# Política de Privacidade - VOVO DA SORTE
 
 **Última atualização:** 9 de janeiro de 2026
 
